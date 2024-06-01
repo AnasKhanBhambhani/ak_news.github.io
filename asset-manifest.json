@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec2e11d2.css",
+    "main.js": "/static/js/main.c595d181.js",
+    "static/js/453.dae228d2.chunk.js": "/static/js/453.dae228d2.chunk.js",
+    "static/media/Blue Daily News LinkedIn Banner (1).png": "/static/media/Blue Daily News LinkedIn Banner (1).d029a238e4a69384f1ea.png",
+    "static/media/Blue Daily News LinkedIn Banner (1).gif": "/static/media/Blue Daily News LinkedIn Banner (1).44602a3e7cb598e0031c.gif",
+    "static/media/Red and Black Modern Personal LinkedIn Banner.png": "/static/media/Red and Black Modern Personal LinkedIn Banner.2e163b6d800ffc1ef201.png",
+    "index.html": "/index.html",
+    "main.ec2e11d2.css.map": "/static/css/main.ec2e11d2.css.map",
+    "main.c595d181.js.map": "/static/js/main.c595d181.js.map",
+    "453.dae228d2.chunk.js.map": "/static/js/453.dae228d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec2e11d2.css",
+    "static/js/main.c595d181.js"
+  ]
+}
